@@ -5,6 +5,8 @@ from datetime import datetime
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
+# test commit comment
+
 SEND_REPORT_EVERY = 60 # in seconds
 sender = 'EmailAddress'
 receivers = sender
